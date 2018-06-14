@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\honghc\\Desktop\\monitor\\external\\donut\\donut_without_label_2.ckpt\\variables.dat"
+all_model_checkpoint_paths: "C:\\Users\\honghc\\Desktop\\monitor\\external\\donut\\donut_without_label_2.ckpt\\variables.dat"
